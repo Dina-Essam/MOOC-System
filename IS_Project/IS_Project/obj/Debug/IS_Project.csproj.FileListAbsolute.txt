@@ -1,0 +1,63 @@
+E:\year 2\information system\project\IS_Project\IS_Project\bin\Debug\IS_Project.exe.config
+E:\year 2\information system\project\IS_Project\IS_Project\bin\Debug\IS_Project.exe
+E:\year 2\information system\project\IS_Project\IS_Project\bin\Debug\IS_Project.pdb
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.course.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.Courses_Enrolled.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.login.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.Properties.Resources.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.GenerateResource.Cache
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.exe
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.pdb
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.csprojResolveAssemblyReference.cache
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.studentMM.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.signupstudent.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.Signupeo.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.EOmainmenucs.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.coursesEO.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.add.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.addfield.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.search.resources
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.notenrolled.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\bin\Debug\IS_Project.exe.config
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.exe
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.pdb
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\bin\Debug\IS_Project.exe
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\bin\Debug\IS_Project.pdb
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.add.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.addfield.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.certi.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.course.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.Courses_Enrolled.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.coursesEO.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.EOmainmenucs.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.login.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.notenrolled.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.Properties.Resources.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.search.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.Signupeo.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.signupstudent.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.studentMM.resources
+C:\Users\DELL\Desktop\IS_Project\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.GenerateResource.Cache
+E:\year 2\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.certi.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\bin\Debug\IS_Project.exe.config
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.exe
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.pdb
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\bin\Debug\IS_Project.exe
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\bin\Debug\IS_Project.pdb
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.csprojResolveAssemblyReference.cache
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.add.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.addfield.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.certi.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.course.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.Courses_Enrolled.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.coursesEO.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.EOmainmenucs.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.login.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.notenrolled.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.Properties.Resources.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.search.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.Signupeo.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.signupstudent.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.studentMM.resources
+E:\year 2\Term 1\information system\project\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.GenerateResource.Cache
